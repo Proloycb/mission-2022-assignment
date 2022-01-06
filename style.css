@@ -3,12 +3,19 @@ body {
 }
 h1 {
     font-size: 45px;
+    line-height: 30px;
+}
+h2 {
+    font-size: 35px;
+    line-height: 30px;
 }
 .mission-color {
     color: tomato;
 }
 .flexible-container {
     display: flex;
+    margin-top: 50px;
+    margin-bottom: 60px;
 }
 .half-width {
     width: 50%;
@@ -55,4 +62,33 @@ h1 {
 }
 #goals-web-exp {
     background-color: rgb(218, 208, 208) ;
+}
+.develop-area {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 250px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.limit-area {
+    margin-right: 0;
+}
+#limit {
+    padding-left: 0;
+}
+.global-area {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 250px;
+}
+footer {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 20px 40px
+}
+footer p {
+    font-size: 0.75em;
 }
