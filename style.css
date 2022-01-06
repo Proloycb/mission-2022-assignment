@@ -83,6 +83,9 @@ h2 {
     background-position: right bottom;
     background-size: 250px;
 }
+.about-area h1 {
+ text-align: center;
+}
 footer {
     background-color: black;
     color: blanchedalmond;
