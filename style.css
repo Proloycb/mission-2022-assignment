@@ -84,13 +84,19 @@ h2 {
     background-size: 250px;
 }
 .about-area h1 {
- text-align: center;
+    text-align: center;
+}
+.bonus-img  {
+    text-align: center;
+}
+.bonus-img img {
+    width: 40%;
 }
 footer {
     background-color: black;
     color: blanchedalmond;
     text-align: center;
-    padding: 20px 40px
+    padding: 20px 50px
 }
 footer p {
     font-size: 0.75em;
